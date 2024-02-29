@@ -3,6 +3,18 @@
 <img src="https://i.imgur.com/9p2WSi3.png"/>
 <br>
 
+
+<p>
+  <b> &nbsp;Join Us on OGAds:</b></summary></p>
+  <p>
+   <a href="https://members.ogads.com/register?r=89668">  <img src="https://i.imgur.com/b9XZKbc.gif" alt="CPA Creators" /></a></p>
+  <br/>
+<p>
+<b> &nbsp;Join Us on Adblue Media (Ex CPABuild):</b></summary></p>
+   <a href="https://cpazip.com/aff/cpabuild">  <img src="https://i.imgur.com/jJCxowb.jpeg" alt="CPA Creators" height="250" /></a></p>
+  <br/>
+  <p>
+
 “Silo” is a nice multi-niche CPA Landing page with a minimal/neutral design that goes straight to the point. There are fewer functionalities than in the usual CPA generator landing pages, and you can get a huge conversion rate with this template.
 
 <br>
